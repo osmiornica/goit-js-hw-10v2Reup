@@ -7,7 +7,7 @@ const countryList = document.querySelector('.country-list');
 const countryInfo = document.querySelector('.country-info');
 const DEBOUNCE_DELAY = 300;
 const body = document.querySelector('body');
-body.style.backgroundColor = '#C4A484';
+body.style.backgroundColor = '#2596be';
 const URLINFO = 'https://en.wikipedia.org/wiki/';
 
 function fetch(e) {
